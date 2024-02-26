@@ -1,4 +1,0 @@
-package HB_FANSITE_DOWNLOADERS;
-
-public class ONLY_FANS_DOWNLOADER {
-}
