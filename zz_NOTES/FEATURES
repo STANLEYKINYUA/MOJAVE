@@ -1,0 +1,21 @@
+#FEATURES LIST.
+
+
+    1. FILE TRACKING
+        * Maintain a List of all Videos and Images Downloaded to avoid - ReDownloading.
+        * Even when I clear Download List - I still have data in the Dbase
+        * Search for Specific names as well as search for strings in the Filenames to avoid minor inconviniences.
+
+    2.  NETFLIX / Youtube STYLE Viewing Window.
+        * Sort and Organize my Content like NetFlix / Youtube for easy viewing.
+
+    3.  Media Player.
+        * Open Web Server with HTML5 Interface with media player. Allows
+
+        * LIST OF INFO TO MAINTAIN  :
+                > Most Played + Number of Times Played
+                > Recently Played
+                > PlayLists
+                > Favourites
+                > Liked Videos
+                >
